@@ -1,7 +1,4 @@
 @charset "UTF-8";
-/* テスト用：読み込みに成功すれば背景が少し青くなります */
-body { background-color: #f0f8ff !important; }
-
 @import url('https://fonts.googleapis.com/earlyaccess/hannari.css');
 @import url('https://use.fontawesome.com/releases/v6.7.2/css/all.css');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.2.1/font-awesome-animation.css');
